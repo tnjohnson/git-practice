@@ -7,3 +7,6 @@ console.log(stuff)
 const number = 8
 
 console.log(number)
+
+const sparta = 49 - 40
+console.log(sparta)
